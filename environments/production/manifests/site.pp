@@ -1,3 +1,3 @@
-node 'magneto' {
-include default
+node 'linuxunix' {
+include ntp
 }
