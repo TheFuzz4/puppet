@@ -1,4 +1,4 @@
-class packages {
+class default {
 
   package { 'screen':
     ensure => 'installed',

@@ -1,0 +1,3 @@
+node 'magneto' {
+include default
+}
